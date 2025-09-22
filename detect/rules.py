@@ -106,47 +106,60 @@ def flag_mule_transfers(trades: pd.DataFrame,
                         price_pct=0.5,
                         max_buyer_age_days=14,
                         extended_age_days=30,
-                        high_value_quantile=0.95):
+                        high_value_multiplier=2.5):
     """
-    Flags cheap sales to very new accounts.
-    Uses a robust per-item baseline: median of last 24h (fallback to global median).
-    Piecewise age rule: <=14 days OR (<=30 days AND trade value >= item p95).
+    Flags cheap sales to new accounts.
+    Cheapness is required in all cases: price <= price_pct * reference.
+    Age rule:
+      - Buyer age <= max_buyer_age_days, OR
+      - Buyer age <= extended_age_days AND the *item* is high-value
+        (item_p95 >= high_value_multiplier * item_median).
+    Reference price is a robust per-item baseline (rolling median fallback to global median).
     """
     T = trades.copy(); L = listings.copy()
     T["ts"] = pd.to_datetime(T["ts"]); L["ts"] = pd.to_datetime(L["ts"])
     P = players[["player_id","account_age_days"]].rename(columns={"player_id":"buyer_id"})
 
-    # Baselines
     # Global item median
     item_global_med = T.groupby("item_id")["price"].median().rename("item_global_median")
-    # Rolling 24h median (approximate via self-join on 24h window per item)
-    T_sorted = T.sort_values("ts")
-    T_sorted = T_sorted.merge(item_global_med, on="item_id", how="left")
+
+    # Rolling proxy (optional/simple): rolling median per item on time-sorted series
+    T_sorted = T.sort_values("ts").merge(item_global_med, on="item_id", how="left")
     T_sorted["roll24_median"] = T_sorted.groupby("item_id")["price"]\
-        .transform(lambda s: s.rolling(window=200, min_periods=10).median())  # simple rolling proxy
-    # Fallback to global when rolling is NaN
+        .transform(lambda s: s.rolling(window=200, min_periods=10).median())
+    # Reference = rolling median fallback to global median
     T_sorted["item_ref"] = T_sorted["roll24_median"].fillna(T_sorted["item_global_median"])
 
-    # High value threshold per item (p95)
-    item_p95 = T.groupby("item_id")["price"].quantile(high_value_quantile).rename("item_p95")
+    # Quantiles to determine high-value items
+    item_p95 = T.groupby("item_id")["price"].quantile(0.95).rename("item_p95")
+    item_med = T.groupby("item_id")["price"].median().rename("item_median")
 
-    TT = T_sorted.merge(P, on="buyer_id", how="left")\
-                 .merge(item_p95, on="item_id", how="left")
+    TT = (T_sorted
+          .merge(P, on="buyer_id", how="left")
+          .merge(item_p95, on="item_id", how="left")
+          .merge(item_med, on="item_id", how="left"))
 
     flags = []
     for _, r in TT.iterrows():
         ref = r["item_ref"] if pd.notna(r["item_ref"]) else r["item_global_median"]
-        too_cheap = r["price"] <= price_pct * ref
         buyer_age = r.get("account_age_days", 999999)
 
-        high_value = pd.notna(r.get("item_p95", None)) and (r["price"] >= r["item_p95"])
-        age_rule = (buyer_age <= max_buyer_age_days) or (buyer_age <= extended_age_days and high_value)
+        # Cheapness (always required)
+        too_cheap = r["price"] <= price_pct * ref
+
+        # High-value *item* (not trade): p95 much higher than median
+        item_is_high_value = (pd.notna(r.get("item_p95")) and pd.notna(r.get("item_median"))
+                              and (r["item_p95"] >= high_value_multiplier * r["item_median"]))
+
+        # Age rule: very new OR (somewhat new AND item is high-value)
+        age_rule = (buyer_age <= max_buyer_age_days) or (buyer_age <= extended_age_days and item_is_high_value)
 
         if too_cheap and age_rule:
             flags.append((r["trade_id"], "MULE_RULE",
                           f"buyer_age={int(buyer_age)}d, price {r['price']:.0f} ≤ {int(price_pct*100)}% of ref {ref:.0f}"))
 
     return pd.DataFrame(flags, columns=["entity_id","code","detail"])
+
 
 
 def flag_wash_trading_heuristic(trades: pd.DataFrame,
