@@ -1,0 +1,52 @@
+name: Nightly Sweep (Manual)
+
+on:
+  workflow_dispatch:
+    inputs:
+      run_sweep:
+        description: "Run notebook.py to generate sweep artifacts"
+        required: true
+        default: "true"
+      python_version:
+        description: "Python version"
+        required: false
+        default: "3.11"
+
+jobs:
+  sweep:
+    if: ${{ github.event.inputs.run_sweep == 'true' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ github.event.inputs.python_version || '3.11' }}
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; else echo "No requirements.txt"; fi
+
+      - name: Run sweep (notebook.py)
+        run: |
+          python notebook.py
+
+      - name: Upload sweep artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: sweep-artifacts
+          path: |
+            data/sweeps/summary.csv
+            data/runs/**/*
+          if-no-files-found: warn

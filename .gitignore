@@ -1,0 +1,25 @@
+cat > .gitignore << 'EOF'
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Data artifacts (keep structure, ignore heavy outputs)
+data/runs/*
+data/sweeps/*
+!data/.gitkeep
+
+# Pytest cache & misc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+EOF
+mkdir -p data && touch data/.gitkeep
