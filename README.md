@@ -1,5 +1,10 @@
 # In-Game Market Controller (Fraud & Manipulation Detection)
 
+<!-- Badges -->
+![CI](https://github.com/Balghi/online-ingame-market-controller/actions/workflows/ci.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python 3.11](https://img.shields.io/badge/python-3.11-blue)
+
 A lightweight, **QA-driven** framework for detecting **market manipulation** in online games with player-driven economies.  
 It simulates a live economy, injects realistic bad behaviors, and detects them via **explainable rules** plus a small **unsupervised AI** layer.  
 Outputs are **reproducible CSV artifacts** suitable for dashboards, triage, and regression testing.
