@@ -1,125 +1,63 @@
 # Changelog
 
-All notable changes to the In-Game Market Controller will be documented in this file.
-
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
-
-## [Unreleased]
-
-### Added
-- Features in development
-
-### Changed
-- Planned improvements
-
-### Fixed
-- Bug fixes in progress
-
-## [1.0.0] - 2024-09-23
-
-### Added
-- **Streamlit Web Application**: Interactive demo with single run analysis, comparison between runs, and festival summary
-- **Core Fraud Detection Rules**:
-  - Under/overpriced transaction detection using robust MAD-based z-scores
-  - Rapid flip detection with adaptive time windows
-  - Mule transfer detection with piecewise age rules
-  - Wash trading detection via concentration heuristics and cycle detection
-- **AI-Powered Anomaly Detection**: Isolation Forest with explainable features for account-day patterns
-- **Market Simulation Engine**:
-  - Configurable world generation (players, items, regions)
-  - Dynamic market simulation with festival effects
-  - Realistic trading patterns and inventory management
-- **Fraud Injection System**:
-  - Wash trading rings with configurable group sizes
-  - Mule transfer patterns with realistic price manipulation
-  - Collusive rapid flip scenarios
-  - Busy-but-benign trader patterns for testing false positives
-- **Comprehensive Testing Framework**:
-  - Golden run regression tests with seed 1337
-  - Metamorphic testing for time-shift invariance
-  - Property-based testing for rule consistency
-  - Ablation testing for detector uniqueness
-  - AI explainability validation
-- **Data Pipeline & Artifacts**:
-  - CSV-based reproducible artifacts
-  - Sweep configuration for festival ON/OFF comparison
-  - Detailed metrics with precision/recall per fraud type
-  - Rule contribution analysis
-  - Miss audit capabilities
-- **Documentation & Quality Assurance**:
-  - Comprehensive test plan and procedures
-  - Report templates for analysis
-  - CI/CD pipeline with automated testing
-  - Code coverage and quality checks
-
-### Features
-- **Multi-Rule Detection**: Price anomalies, rapid flips, mule transfers, wash trading
-- **Explainable AI**: Top feature identification with plain-English descriptions
-- **Festival Economics**: Configurable market events with smooth price impacts
-- **Adaptive Detection**: Dynamic time windows based on item characteristics
-- **Reproducible Results**: Deterministic simulation with configurable seeds
-- **Performance Metrics**: Precision/recall analysis per fraud type and rule
-- **Interactive Dashboard**: Real-time analysis and comparison tools
-
-### Security
-- Robust fraud detection algorithms resistant to evasion
-- Comprehensive validation to minimize false positives
-- Audit trail capabilities for compliance requirements
-
-### Technical
-- **Python 3.11** compatibility
-- **Streamlit** web framework for interactive demos
-- **pandas/numpy** for efficient data processing
-- **scikit-learn** for machine learning components
-- **pytest** framework for comprehensive testing
-- **GitHub Actions** for continuous integration
-
-## [0.9.0] - 2024-09-20
-
-### Added
-- Initial project structure and core simulation framework
-- Basic fraud injection capabilities
-- Rule-based detection prototypes
-- Test infrastructure setup
-
-### Changed
-- Refined detection algorithms based on initial testing
-- Improved simulation realism
-
-## [0.1.0] - 2024-09-15
-
-### Added
-- Project initialization
-- Basic market simulation concepts
-- Initial fraud pattern research and design
+All notable changes to this project will be documented in this file.  
+This project follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and Semantic Versioning.
 
 ---
 
-## Release Notes
+## [0.1.0] - 2025-09-23
 
-### Version 1.0.0 Highlights
+### Added
+- **Fraud detectors**  
+  - UNDER/OVER-priced trades  
+  - Rapid flips (both legs of collusion)  
+  - Mule transfers (piecewise account age logic)  
+  - Wash trading (heuristic + concentration rules)  
 
-This major release represents a production-ready fraud detection system for in-game economies. Key improvements include:
+- **AI anomaly detection**  
+  - Isolation Forest on account/day features  
+  - Plain-English explanations for flagged anomalies  
 
-- **Production-Ready**: Comprehensive testing, CI/CD, and documentation
-- **Interactive Demo**: Live Streamlit application for immediate evaluation
-- **Explainable AI**: Clear reasoning for all detection decisions
-- **Comprehensive Coverage**: Multiple fraud types with high precision/recall
-- **Quality Assurance**: Extensive test suite with multiple validation approaches
+- **Simulation & injectors**  
+  - Synthetic players, items, trades  
+  - Configurable “festival” market events  
+  - Fraud injectors for collusion, mules, wash trading  
+  - Benign “busy trader” injectors for QA stress tests  
 
-For detailed usage instructions, see the [README](README.md) and [documentation](docs/).
+- **Testing suite (9 total)**  
+  - Golden snapshot regression  
+  - Metamorphic time-shift invariance  
+  - Property-based data sanity  
+  - Ablation sanity (AI unique detections)  
+  - Unit tests for rapid flip, mule transfers, wash concentration, price baselines, AI explainability  
 
-### Migration Guide
+- **Continuous Integration**  
+  - GitHub Actions running pytest on push/PR  
 
-This is the initial stable release. Future versions will include migration instructions here.
+- **Streamlit demo app**  
+  - Single-run analysis with KPIs and rule contributions  
+  - Compare runs across seeds and festival ON/OFF  
+  - Summary view with aggregate metrics  
 
-### Known Issues
+- **Documentation & artifacts**  
+  - README with badges, usage, and test overview  
+  - One-page PDF project overview (`docs/project_onepager.pdf`)  
+  - Report template (`docs/report_template.md`)  
+  - Curated demo runs (`fest_on_seed21`, `fest_off_seed909`) for instant exploration  
 
-- None reported for stable release
+### Changed
+- Tuned thresholds for precision-first detection  
+  - Achieved ≈1.00 precision and 0.97–0.99 recall across multiple seeds  
+- Expanded README with demo link, CI badge, and test breakdown  
 
-### Compatibility
+### Fixed
+- Mule rule extended-age logic (applies only for high-value trades)  
+- Isolation Forest fitting bug (explicit `.fit()` before scoring)  
+- Streamlit explainability: added buyer/seller context and clearer feature text  
 
-- Requires Python 3.11+
-- Compatible with modern pandas/numpy versions
-- Tested on macOS and Linux environments
+---
+
+## Unreleased
+- Extended fraud patterns: cross-item wash rings, K4+ cycle detection  
+- Streamlit enhancements: export audit CSVs and PDF snapshots  
+- Dockerfile for portable deployment
