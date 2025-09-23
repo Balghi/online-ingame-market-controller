@@ -6,6 +6,8 @@
 ![Python 3.11](https://img.shields.io/badge/python-3.11-blue)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://online-ingame-market-controller-demo.streamlit.app)
 
+> 📋 **[View Changelog](CHANGELOG.md)** - See what's new in each release
+
 ## 🌐 Live Demo
 
 - Preloaded with demo runs so it loads instantly.
@@ -49,7 +51,10 @@ Outputs are **reproducible CSV artifacts** suitable for dashboards, triage, and 
 │  ├─ runs/            # per-run artifacts (flags, labels, metrics…)
 │  └─ sweeps/          # sweep summaries (summary.csv)
 ├─ tests/              # golden, property, metamorphic, sanity tests
-└─ docs/               # test plan, procedures, reporting templates
+├─ docs/               # test plan, procedures, reporting templates
+├─ app/                # Streamlit web application
+├─ CHANGELOG.md        # version history and release notes
+└─ README.md           # this file
 ```
 
 ---
