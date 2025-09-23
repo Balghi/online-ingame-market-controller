@@ -4,6 +4,13 @@
 ![CI](https://github.com/Balghi/online-ingame-market-controller/actions/workflows/ci.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python 3.11](https://img.shields.io/badge/python-3.11-blue)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://online-ingame-market-controller-demo.streamlit.app)
+
+## 🌐 Live Demo
+
+- Preloaded with demo runs so it loads instantly.
+- Tabs: **Single run**, **Compare runs**, **Festival summary**.
+- AI section includes plain-English reasons for top features per suspicious account/day.
 
 A lightweight, **QA-driven** framework for detecting **market manipulation** in online games with player-driven economies.  
 It simulates a live economy, injects realistic bad behaviors, and detects them via **explainable rules** plus a small **unsupervised AI** layer.  
@@ -61,6 +68,8 @@ python notebook.py
 # 3) Explore results
 open data/sweeps/summary.csv
 # …and per-run folders under data/runs/fest_on_seedXXXX / fest_off_seedXXXX
+# 4) View visualizations on app
+streamlit run app/streamlit_app.py
 ```
 
 **Key entrypoint:** `notebook.py`  
@@ -152,14 +161,21 @@ Fraud intensity: ring size, flip pairs, delay distribution, etc.
 
 ## 🧪 Tests
 
-Typical `pytest` suite includes:
+This repo ships a small but meaningful pytest suite that exercises rules, AI features, and QA workflows:
 
-- `test_golden_seed1337.py` – snapshot of `flags.csv` IDs for a known run  
-- `test_metamorphic_time_shift.py` – decisions invariant under time shift  
-- `test_property_basic.py` – sanity checks on generated data  
-- `test_ablation_sanity.py` – AI unique TPs are within expected bounds
+| File | What it checks |
+|---|---|
+| `tests/test_golden_seed1337.py` | **Golden snapshot** of `flags.csv` trade IDs for a known run (regression guard). |
+| `tests/test_metamorphic_time_shift.py` | **Metamorphic**: decisions are invariant under a uniform time shift. |
+| `tests/test_property_basic.py` | **Property tests** on generated data (e.g., schema, non-negative prices/qty). |
+| `tests/test_ablation_sanity.py` | **Ablation sanity**: AI unique TPs within reasonable bounds vs rules. |
+| `tests/test_rule_rapid_flip_both_legs.py` | **Rapid flip rule** flags **both legs** of a collusive flip. |
+| `tests/test_rule_mule_piecewise_age.py` | **Mule rule**: cheapness + piecewise age (≤14d or ≤30d on high-value items). |
+| `tests/test_rule_wash_concentration.py` | **Wash concentration**: flags dense 3-player ring; spares uniform traffic. |
+| `tests/test_ai_explainability.py` | **AI layer**: IsolationForest marks something with high contamination; explain columns present. |
+| `tests/test_rule_price_baselines.py` | **Price baselines**: UNDER/OVERPRICED thresholds around rolling/global medians. |
 
-Run tests with:
+Run the whole suite:
 
 ```bash
 pytest -q
