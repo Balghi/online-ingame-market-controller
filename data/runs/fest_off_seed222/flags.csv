@@ -1,0 +1,1746 @@
+entity_type,entity_id,risk,code,detail
+trade,T0000517,0.85,UNDERPRICED,-13.3σ vs median
+trade,T0000575,0.85,UNDERPRICED,-13.3σ vs median
+trade,T0000655,0.85,UNDERPRICED,-13.3σ vs median
+trade,T0001932,0.85,UNDERPRICED,-5.6σ vs median
+trade,T0001907,0.85,UNDERPRICED,-5.6σ vs median
+trade,T0001929,0.85,UNDERPRICED,-5.6σ vs median
+trade,T0001887,0.85,UNDERPRICED,-5.6σ vs median
+trade,T0005777,0.85,OVERPRICED,+4.9σ vs median
+trade,T0005775,0.85,OVERPRICED,+3.4σ vs median
+trade,T0001937,0.85,UNDERPRICED,-5.6σ vs median
+trade,T0001990,0.85,UNDERPRICED,-5.6σ vs median
+trade,T0005776,0.85,UNDERPRICED,-3.8σ vs median
+trade,T0002000,0.85,UNDERPRICED,-5.6σ vs median
+trade,T0002070,0.85,UNDERPRICED,-5.6σ vs median
+trade,T0002112,0.85,UNDERPRICED,-5.6σ vs median
+trade,T0002193,0.85,UNDERPRICED,-5.6σ vs median
+trade,T0002303,0.85,UNDERPRICED,-5.6σ vs median
+trade,T0002319,0.85,UNDERPRICED,-5.6σ vs median
+trade,T0002394,0.85,UNDERPRICED,-5.6σ vs median
+trade,T0002378,0.85,UNDERPRICED,-5.6σ vs median
+trade,T0002361,0.85,UNDERPRICED,-5.6σ vs median
+trade,T0002381,0.85,UNDERPRICED,-15.7σ vs median
+trade,T0002401,0.85,UNDERPRICED,-7.8σ vs median
+trade,T0002450,0.85,UNDERPRICED,-3.5σ vs median
+trade,T0003380,0.85,OVERPRICED,+23.5σ vs median
+trade,T0003482,0.85,OVERPRICED,+25.4σ vs median
+trade,T0003497,0.85,OVERPRICED,+25.4σ vs median
+trade,T0003501,0.85,OVERPRICED,+37.4σ vs median
+trade,T0003618,0.85,OVERPRICED,+37.4σ vs median
+trade,T0003658,0.85,OVERPRICED,+18.7σ vs median
+trade,T0003759,0.85,OVERPRICED,+17.4σ vs median
+trade,T0003774,0.85,OVERPRICED,+17.4σ vs median
+trade,T0003807,0.85,OVERPRICED,+17.4σ vs median
+trade,T0003845,0.85,OVERPRICED,+17.4σ vs median
+trade,T0003955,0.85,OVERPRICED,+17.4σ vs median
+trade,T0003936,0.85,OVERPRICED,+17.4σ vs median
+trade,T0004347,0.85,OVERPRICED,+12.0σ vs median
+trade,T0003884,0.85,UNDERPRICED,-3.8σ vs median
+trade,T0003860,0.85,UNDERPRICED,-3.8σ vs median
+trade,T0003863,0.85,UNDERPRICED,-3.8σ vs median
+trade,T0003986,0.85,UNDERPRICED,-4.6σ vs median
+trade,T0004025,0.85,UNDERPRICED,-4.6σ vs median
+trade,T0004040,0.85,UNDERPRICED,-4.6σ vs median
+trade,T0004087,0.85,UNDERPRICED,-4.6σ vs median
+trade,T0004086,0.85,UNDERPRICED,-4.6σ vs median
+trade,T0004109,0.85,UNDERPRICED,-4.6σ vs median
+trade,T0004130,0.85,UNDERPRICED,-4.6σ vs median
+trade,T0004164,0.85,UNDERPRICED,-4.6σ vs median
+trade,T0005395,0.85,UNDERPRICED,-2.7σ vs median
+trade,T0005427,0.85,UNDERPRICED,-2.7σ vs median
+trade,T0005426,0.85,UNDERPRICED,-2.7σ vs median
+trade,T0005500,0.85,UNDERPRICED,-2.7σ vs median
+trade,T0005654,0.85,UNDERPRICED,-2.7σ vs median
+trade,T0005693,0.85,UNDERPRICED,-2.7σ vs median
+trade,T0005718,0.85,OVERPRICED,+66.2σ vs median
+trade,T0000106,0.85,UNDERPRICED,-66.2σ vs median
+trade,T0000105,0.85,UNDERPRICED,-66.2σ vs median
+trade,T0000218,0.85,UNDERPRICED,-66.2σ vs median
+trade,T0000281,0.85,UNDERPRICED,-66.2σ vs median
+trade,T0002363,0.85,OVERPRICED,+24.1σ vs median
+trade,T0002379,0.85,OVERPRICED,+24.1σ vs median
+trade,T0002422,0.85,OVERPRICED,+24.1σ vs median
+trade,T0002506,0.85,OVERPRICED,+24.1σ vs median
+trade,T0002566,0.85,OVERPRICED,+26.8σ vs median
+trade,T0002618,0.85,OVERPRICED,+22.3σ vs median
+trade,T0002668,0.85,OVERPRICED,+22.3σ vs median
+trade,T0002764,0.85,OVERPRICED,+29.9σ vs median
+trade,T0002819,0.85,OVERPRICED,+18.5σ vs median
+trade,T0002831,0.85,OVERPRICED,+18.1σ vs median
+trade,T0002808,0.85,OVERPRICED,+17.8σ vs median
+trade,T0002860,0.85,OVERPRICED,+17.8σ vs median
+trade,T0002851,0.85,OVERPRICED,+17.8σ vs median
+trade,T0002853,0.85,OVERPRICED,+17.8σ vs median
+trade,T0002909,0.85,OVERPRICED,+17.8σ vs median
+trade,T0004999,0.85,UNDERPRICED,-27.8σ vs median
+trade,T0004987,0.85,UNDERPRICED,-18.5σ vs median
+trade,T0004972,0.85,UNDERPRICED,-13.9σ vs median
+trade,T0004988,0.85,UNDERPRICED,-13.9σ vs median
+trade,T0005025,0.85,UNDERPRICED,-13.9σ vs median
+trade,T0005026,0.85,UNDERPRICED,-13.9σ vs median
+trade,T0005029,0.85,UNDERPRICED,-13.9σ vs median
+trade,T0005020,0.85,UNDERPRICED,-13.9σ vs median
+trade,T0005021,0.85,UNDERPRICED,-13.9σ vs median
+trade,T0005112,0.85,UNDERPRICED,-13.9σ vs median
+trade,T0005056,0.85,UNDERPRICED,-13.9σ vs median
+trade,T0005069,0.85,UNDERPRICED,-13.9σ vs median
+trade,T0005101,0.85,UNDERPRICED,-13.9σ vs median
+trade,T0005102,0.85,UNDERPRICED,-13.9σ vs median
+trade,T0005155,0.85,UNDERPRICED,-13.9σ vs median
+trade,T0005194,0.85,UNDERPRICED,-13.9σ vs median
+trade,T0005190,0.85,UNDERPRICED,-13.9σ vs median
+trade,T0005187,0.85,UNDERPRICED,-13.9σ vs median
+trade,T0005232,0.85,UNDERPRICED,-13.9σ vs median
+trade,T0005290,0.85,UNDERPRICED,-13.9σ vs median
+trade,T0000357,0.85,UNDERPRICED,-149.1σ vs median
+trade,T0000412,0.85,UNDERPRICED,-74.5σ vs median
+trade,T0000446,0.85,UNDERPRICED,-49.7σ vs median
+trade,T0000474,0.85,UNDERPRICED,-37.3σ vs median
+trade,T0001512,0.85,OVERPRICED,+62.4σ vs median
+trade,T0001496,0.85,OVERPRICED,+31.2σ vs median
+trade,T0005769,0.85,UNDERPRICED,-3.8σ vs median
+trade,T0005442,0.85,UNDERPRICED,-3.1σ vs median
+trade,T0000247,0.85,UNDERPRICED,-4.5σ vs median
+trade,T0000307,0.85,UNDERPRICED,-7.6σ vs median
+trade,T0000326,0.85,UNDERPRICED,-7.6σ vs median
+trade,T0000330,0.85,UNDERPRICED,-7.6σ vs median
+trade,T0000298,0.85,UNDERPRICED,-7.6σ vs median
+trade,T0000369,0.85,UNDERPRICED,-7.6σ vs median
+trade,T0002436,0.85,OVERPRICED,+3.9σ vs median
+trade,T0002444,0.85,OVERPRICED,+3.9σ vs median
+trade,T0002437,0.85,OVERPRICED,+3.9σ vs median
+trade,T0002528,0.85,OVERPRICED,+4.3σ vs median
+trade,T0002512,0.85,OVERPRICED,+4.3σ vs median
+trade,T0002544,0.85,OVERPRICED,+4.3σ vs median
+trade,T0002623,0.85,OVERPRICED,+4.3σ vs median
+trade,T0002625,0.85,OVERPRICED,+4.3σ vs median
+trade,T0002693,0.85,OVERPRICED,+4.3σ vs median
+trade,T0002770,0.85,OVERPRICED,+4.7σ vs median
+trade,T0002767,0.85,OVERPRICED,+4.7σ vs median
+trade,T0002830,0.85,OVERPRICED,+4.7σ vs median
+trade,T0002880,0.85,OVERPRICED,+4.7σ vs median
+trade,T0002874,0.85,OVERPRICED,+4.7σ vs median
+trade,T0002868,0.85,OVERPRICED,+4.7σ vs median
+trade,T0002866,0.85,OVERPRICED,+4.7σ vs median
+trade,T0002946,0.85,OVERPRICED,+4.7σ vs median
+trade,T0002945,0.85,OVERPRICED,+4.7σ vs median
+trade,T0002925,0.85,OVERPRICED,+4.7σ vs median
+trade,T0000571,0.85,UNDERPRICED,-2.7σ vs median
+trade,T0001844,0.85,OVERPRICED,+24.4σ vs median
+trade,T0001840,0.85,OVERPRICED,+12.2σ vs median
+trade,T0001834,0.85,OVERPRICED,+8.1σ vs median
+trade,T0001914,0.85,OVERPRICED,+12.2σ vs median
+trade,T0001925,0.85,OVERPRICED,+8.1σ vs median
+trade,T0001983,0.85,OVERPRICED,+8.1σ vs median
+trade,T0001991,0.85,OVERPRICED,+6.1σ vs median
+trade,T0001976,0.85,OVERPRICED,+6.1σ vs median
+trade,T0001999,0.85,OVERPRICED,+6.1σ vs median
+trade,T0001953,0.85,OVERPRICED,+25.1σ vs median
+trade,T0002040,0.85,OVERPRICED,+25.1σ vs median
+trade,T0002087,0.85,OVERPRICED,+25.1σ vs median
+trade,T0002238,0.85,OVERPRICED,+25.1σ vs median
+trade,T0002325,0.85,OVERPRICED,+25.1σ vs median
+trade,T0002318,0.85,OVERPRICED,+25.1σ vs median
+trade,T0005746,0.85,UNDERPRICED,-25.0σ vs median
+trade,T0003675,0.85,OVERPRICED,+23.9σ vs median
+trade,T0003740,0.85,OVERPRICED,+23.9σ vs median
+trade,T0005008,0.85,OVERPRICED,+30.6σ vs median
+trade,T0005050,0.85,OVERPRICED,+4.4σ vs median
+trade,T0000353,0.85,UNDERPRICED,-16.7σ vs median
+trade,T0000359,0.85,UNDERPRICED,-16.7σ vs median
+trade,T0000439,0.85,UNDERPRICED,-16.7σ vs median
+trade,T0001235,0.85,UNDERPRICED,-4.2σ vs median
+trade,T0001303,0.85,UNDERPRICED,-4.2σ vs median
+trade,T0001302,0.85,UNDERPRICED,-4.2σ vs median
+trade,T0001266,0.85,UNDERPRICED,-4.2σ vs median
+trade,T0001356,0.85,UNDERPRICED,-4.2σ vs median
+trade,T0001359,0.85,UNDERPRICED,-4.2σ vs median
+trade,T0001341,0.85,UNDERPRICED,-4.2σ vs median
+trade,T0001364,0.85,UNDERPRICED,-4.2σ vs median
+trade,T0001406,0.85,UNDERPRICED,-4.2σ vs median
+trade,T0001448,0.85,UNDERPRICED,-4.2σ vs median
+trade,T0001622,0.85,UNDERPRICED,-4.2σ vs median
+trade,T0001690,0.85,UNDERPRICED,-4.2σ vs median
+trade,T0001748,0.85,UNDERPRICED,-4.2σ vs median
+trade,T0001829,0.85,UNDERPRICED,-4.2σ vs median
+trade,T0001933,0.85,UNDERPRICED,-4.2σ vs median
+trade,T0004089,0.85,OVERPRICED,+3.1σ vs median
+trade,T0004148,0.85,OVERPRICED,+3.1σ vs median
+trade,T0004152,0.85,OVERPRICED,+3.1σ vs median
+trade,T0004195,0.85,OVERPRICED,+3.1σ vs median
+trade,T0004200,0.85,OVERPRICED,+3.1σ vs median
+trade,T0004229,0.85,UNDERPRICED,-15.3σ vs median
+trade,T0004224,0.85,UNDERPRICED,-15.3σ vs median
+trade,T0004225,0.85,UNDERPRICED,-15.3σ vs median
+trade,T0004317,0.85,UNDERPRICED,-15.3σ vs median
+trade,T0004377,0.85,UNDERPRICED,-15.3σ vs median
+trade,T0004491,0.85,UNDERPRICED,-15.3σ vs median
+trade,T0004469,0.85,UNDERPRICED,-15.3σ vs median
+trade,T0004537,0.85,UNDERPRICED,-15.3σ vs median
+trade,T0004545,0.85,UNDERPRICED,-15.3σ vs median
+trade,T0004527,0.85,UNDERPRICED,-15.3σ vs median
+trade,T0004515,0.85,UNDERPRICED,-15.3σ vs median
+trade,T0004600,0.85,UNDERPRICED,-15.3σ vs median
+trade,T0004635,0.85,UNDERPRICED,-15.3σ vs median
+trade,T0004883,0.85,UNDERPRICED,-6.7σ vs median
+trade,T0004861,0.85,UNDERPRICED,-3.4σ vs median
+trade,T0004918,0.85,UNDERPRICED,-3.4σ vs median
+trade,T0004922,0.85,UNDERPRICED,-3.4σ vs median
+trade,T0004989,0.85,UNDERPRICED,-3.4σ vs median
+trade,T0000609,0.85,UNDERPRICED,-3.9σ vs median
+trade,T0000566,0.85,UNDERPRICED,-3.5σ vs median
+trade,T0000563,0.85,UNDERPRICED,-3.5σ vs median
+trade,T0000617,0.85,UNDERPRICED,-3.5σ vs median
+trade,T0000661,0.85,UNDERPRICED,-3.5σ vs median
+trade,T0000640,0.85,UNDERPRICED,-3.5σ vs median
+trade,T0003277,0.85,OVERPRICED,+2.8σ vs median
+trade,T0003354,0.85,OVERPRICED,+2.8σ vs median
+trade,T0003364,0.85,OVERPRICED,+2.8σ vs median
+trade,T0003320,0.85,OVERPRICED,+2.8σ vs median
+trade,T0003351,0.85,OVERPRICED,+2.8σ vs median
+trade,T0003363,0.85,OVERPRICED,+2.8σ vs median
+trade,T0003370,0.85,OVERPRICED,+2.8σ vs median
+trade,T0003409,0.85,OVERPRICED,+2.8σ vs median
+trade,T0003461,0.85,OVERPRICED,+2.8σ vs median
+trade,T0003508,0.85,OVERPRICED,+2.8σ vs median
+trade,T0003561,0.85,OVERPRICED,+2.8σ vs median
+trade,T0003557,0.85,OVERPRICED,+2.8σ vs median
+trade,T0003657,0.85,OVERPRICED,+2.8σ vs median
+trade,T0002140,0.85,OVERPRICED,+2.9σ vs median
+trade,T0003935,0.85,UNDERPRICED,-2.8σ vs median
+trade,T0000204,0.85,UNDERPRICED,-2.9σ vs median
+trade,T0000183,0.85,UNDERPRICED,-2.9σ vs median
+trade,T0000261,0.85,UNDERPRICED,-3.0σ vs median
+trade,T0000340,0.85,UNDERPRICED,-4.5σ vs median
+trade,T0000304,0.85,UNDERPRICED,-4.5σ vs median
+trade,T0000319,0.85,UNDERPRICED,-4.5σ vs median
+trade,T0000332,0.85,UNDERPRICED,-4.5σ vs median
+trade,T0000295,0.85,UNDERPRICED,-4.5σ vs median
+trade,T0000312,0.85,UNDERPRICED,-4.5σ vs median
+trade,T0000376,0.85,UNDERPRICED,-4.5σ vs median
+trade,T0000421,0.85,UNDERPRICED,-4.5σ vs median
+trade,T0001264,0.85,OVERPRICED,+5.8σ vs median
+trade,T0001258,0.85,OVERPRICED,+2.9σ vs median
+trade,T0005773,0.85,UNDERPRICED,-111.1σ vs median
+trade,T0005774,0.85,UNDERPRICED,-3.7σ vs median
+trade,T0003265,0.85,OVERPRICED,+13.7σ vs median
+trade,T0003333,0.85,OVERPRICED,+13.7σ vs median
+trade,T0003358,0.85,OVERPRICED,+13.7σ vs median
+trade,T0003400,0.85,OVERPRICED,+13.7σ vs median
+trade,T0003454,0.85,OVERPRICED,+21.0σ vs median
+trade,T0003510,0.85,OVERPRICED,+21.0σ vs median
+trade,T0003635,0.85,UNDERPRICED,-3.7σ vs median
+trade,T0003624,0.85,UNDERPRICED,-3.7σ vs median
+trade,T0003698,0.85,UNDERPRICED,-3.7σ vs median
+trade,T0003756,0.85,UNDERPRICED,-3.7σ vs median
+trade,T0000292,0.85,UNDERPRICED,-26.8σ vs median
+trade,T0000285,0.85,UNDERPRICED,-26.8σ vs median
+trade,T0000570,0.85,UNDERPRICED,-7.9σ vs median
+trade,T0002762,0.85,OVERPRICED,+7.8σ vs median
+trade,T0002800,0.85,OVERPRICED,+5.1σ vs median
+trade,T0002843,0.85,OVERPRICED,+5.1σ vs median
+trade,T0002834,0.85,OVERPRICED,+5.1σ vs median
+trade,T0002816,0.85,OVERPRICED,+5.1σ vs median
+trade,T0002791,0.85,OVERPRICED,+5.1σ vs median
+trade,T0002864,0.85,OVERPRICED,+5.1σ vs median
+trade,T0002910,0.85,OVERPRICED,+5.1σ vs median
+trade,T0003129,0.85,OVERPRICED,+5.1σ vs median
+trade,T0003134,0.85,OVERPRICED,+5.1σ vs median
+trade,T0003234,0.85,OVERPRICED,+5.1σ vs median
+trade,T0003218,0.85,OVERPRICED,+5.1σ vs median
+trade,T0003248,0.85,OVERPRICED,+5.1σ vs median
+trade,T0003253,0.85,OVERPRICED,+5.1σ vs median
+trade,T0005761,0.85,UNDERPRICED,-38.0σ vs median
+trade,T0005762,0.85,UNDERPRICED,-7.3σ vs median
+trade,T0004281,0.85,UNDERPRICED,-17.0σ vs median
+trade,T0004275,0.85,UNDERPRICED,-17.0σ vs median
+trade,T0004279,0.85,UNDERPRICED,-17.0σ vs median
+trade,T0004463,0.85,UNDERPRICED,-17.0σ vs median
+trade,T0004603,0.85,UNDERPRICED,-17.0σ vs median
+trade,T0004622,0.85,UNDERPRICED,-17.0σ vs median
+trade,T0004649,0.85,UNDERPRICED,-17.0σ vs median
+trade,T0004674,0.85,UNDERPRICED,-17.0σ vs median
+trade,T0004702,0.85,UNDERPRICED,-17.0σ vs median
+trade,T0004824,0.85,UNDERPRICED,-17.0σ vs median
+trade,T0004769,0.85,UNDERPRICED,-17.0σ vs median
+trade,T0004855,0.85,UNDERPRICED,-17.0σ vs median
+trade,T0004865,0.85,UNDERPRICED,-17.0σ vs median
+trade,T0004941,0.85,UNDERPRICED,-17.0σ vs median
+trade,T0005022,0.85,UNDERPRICED,-17.0σ vs median
+trade,T0005081,0.85,UNDERPRICED,-17.0σ vs median
+trade,T0005201,0.85,UNDERPRICED,-36.4σ vs median
+trade,T0003872,0.85,OVERPRICED,+4.8σ vs median
+trade,T0003976,0.85,OVERPRICED,+4.8σ vs median
+trade,T0003966,0.85,OVERPRICED,+4.5σ vs median
+trade,T0003930,0.85,OVERPRICED,+4.1σ vs median
+trade,T0004028,0.85,OVERPRICED,+4.7σ vs median
+trade,T0004022,0.85,OVERPRICED,+4.7σ vs median
+trade,T0005759,0.85,UNDERPRICED,-4.8σ vs median
+trade,T0001779,0.85,OVERPRICED,+2.7σ vs median
+trade,T0001931,0.85,OVERPRICED,+2.7σ vs median
+trade,T0002006,0.85,OVERPRICED,+3.3σ vs median
+trade,T0002098,0.85,OVERPRICED,+3.3σ vs median
+trade,T0002917,0.85,OVERPRICED,+6.3σ vs median
+trade,T0002956,0.85,OVERPRICED,+3.4σ vs median
+trade,T0002991,0.85,OVERPRICED,+3.0σ vs median
+trade,T0003026,0.85,OVERPRICED,+3.0σ vs median
+trade,T0003018,0.85,OVERPRICED,+3.0σ vs median
+trade,T0003027,0.85,OVERPRICED,+3.0σ vs median
+trade,T0003043,0.85,OVERPRICED,+3.0σ vs median
+trade,T0003121,0.85,OVERPRICED,+3.0σ vs median
+trade,T0003099,0.85,OVERPRICED,+3.0σ vs median
+trade,T0003158,0.85,OVERPRICED,+2.7σ vs median
+trade,T0003383,0.85,OVERPRICED,+2.8σ vs median
+trade,T0003405,0.85,OVERPRICED,+2.8σ vs median
+trade,T0003551,0.85,OVERPRICED,+4.1σ vs median
+trade,T0003804,0.85,UNDERPRICED,-24.8σ vs median
+trade,T0003817,0.85,UNDERPRICED,-24.8σ vs median
+trade,T0005747,0.85,UNDERPRICED,-482.9σ vs median
+trade,T0005743,0.85,UNDERPRICED,-482.9σ vs median
+trade,T0002451,0.85,UNDERPRICED,-43.6σ vs median
+trade,T0002840,0.85,OVERPRICED,+47.1σ vs median
+trade,T0005587,0.85,UNDERPRICED,-177.7σ vs median
+trade,T0005616,0.85,UNDERPRICED,-177.7σ vs median
+trade,T0000113,0.85,UNDERPRICED,-13.5σ vs median
+trade,T0000179,0.85,UNDERPRICED,-13.5σ vs median
+trade,T0000200,0.85,UNDERPRICED,-13.5σ vs median
+trade,T0000181,0.85,UNDERPRICED,-25.3σ vs median
+trade,T0000309,0.85,UNDERPRICED,-12.7σ vs median
+trade,T0002323,0.85,UNDERPRICED,-3.1σ vs median
+trade,T0002337,0.85,UNDERPRICED,-3.1σ vs median
+trade,T0002402,0.85,UNDERPRICED,-3.1σ vs median
+trade,T0002382,0.85,UNDERPRICED,-3.1σ vs median
+trade,T0002367,0.85,UNDERPRICED,-3.1σ vs median
+trade,T0002454,0.85,UNDERPRICED,-3.1σ vs median
+trade,T0002418,0.85,UNDERPRICED,-3.1σ vs median
+trade,T0002433,0.85,UNDERPRICED,-3.1σ vs median
+trade,T0002468,0.85,UNDERPRICED,-3.1σ vs median
+trade,T0002491,0.85,UNDERPRICED,-3.1σ vs median
+trade,T0002517,0.85,UNDERPRICED,-2.5σ vs median
+trade,T0002622,0.85,UNDERPRICED,-2.5σ vs median
+trade,T0002650,0.85,UNDERPRICED,-2.5σ vs median
+trade,T0001967,0.85,OVERPRICED,+69.4σ vs median
+trade,T0001943,0.85,OVERPRICED,+69.4σ vs median
+trade,T0004111,0.85,OVERPRICED,+9.8σ vs median
+trade,T0004231,0.85,OVERPRICED,+9.8σ vs median
+trade,T0004277,0.85,OVERPRICED,+9.8σ vs median
+trade,T0004383,0.85,OVERPRICED,+9.8σ vs median
+trade,T0005719,0.85,OVERPRICED,+15.7σ vs median
+trade,T0005724,0.85,OVERPRICED,+15.7σ vs median
+trade,T0005721,0.85,OVERPRICED,+15.7σ vs median
+trade,T0000172,0.85,UNDERPRICED,-15.7σ vs median
+trade,T0000101,0.85,UNDERPRICED,-15.7σ vs median
+trade,T0005488,0.85,UNDERPRICED,-2.6σ vs median
+trade,T0005461,0.85,UNDERPRICED,-2.6σ vs median
+trade,T0001401,0.85,UNDERPRICED,-4.2σ vs median
+trade,T0005082,0.85,UNDERPRICED,-2.8σ vs median
+trade,T0005170,0.85,UNDERPRICED,-2.8σ vs median
+trade,T0005325,0.85,UNDERPRICED,-2.8σ vs median
+trade,T0005396,0.85,UNDERPRICED,-2.8σ vs median
+trade,T0005377,0.85,UNDERPRICED,-2.8σ vs median
+trade,T0005403,0.85,UNDERPRICED,-2.8σ vs median
+trade,T0005497,0.85,UNDERPRICED,-2.8σ vs median
+trade,T0005479,0.85,UNDERPRICED,-2.8σ vs median
+trade,T0005566,0.85,UNDERPRICED,-2.8σ vs median
+trade,T0005506,0.85,UNDERPRICED,-2.8σ vs median
+trade,T0005529,0.85,UNDERPRICED,-2.8σ vs median
+trade,T0005606,0.85,UNDERPRICED,-2.8σ vs median
+trade,T0005619,0.85,UNDERPRICED,-2.8σ vs median
+trade,T0005652,0.85,UNDERPRICED,-2.8σ vs median
+trade,T0005648,0.85,UNDERPRICED,-2.8σ vs median
+trade,T0000527,0.85,UNDERPRICED,-3.5σ vs median
+trade,T0000581,0.85,UNDERPRICED,-3.5σ vs median
+trade,T0000596,0.85,UNDERPRICED,-3.5σ vs median
+trade,T0000641,0.85,UNDERPRICED,-3.5σ vs median
+trade,T0000619,0.85,UNDERPRICED,-3.5σ vs median
+trade,T0000683,0.85,UNDERPRICED,-3.5σ vs median
+trade,T0001143,0.85,OVERPRICED,+7.2σ vs median
+trade,T0001091,0.85,OVERPRICED,+4.3σ vs median
+trade,T0001254,0.85,UNDERPRICED,-2.7σ vs median
+trade,T0003701,0.85,UNDERPRICED,-4.8σ vs median
+trade,T0003690,0.85,UNDERPRICED,-4.8σ vs median
+trade,T0003672,0.85,UNDERPRICED,-4.8σ vs median
+trade,T0003727,0.85,UNDERPRICED,-4.8σ vs median
+trade,T0003746,0.85,UNDERPRICED,-4.8σ vs median
+trade,T0003779,0.85,UNDERPRICED,-4.8σ vs median
+trade,T0003783,0.85,UNDERPRICED,-4.8σ vs median
+trade,T0003849,0.85,UNDERPRICED,-4.8σ vs median
+trade,T0003868,0.85,UNDERPRICED,-4.8σ vs median
+trade,T0003977,0.85,UNDERPRICED,-4.8σ vs median
+trade,T0003943,0.85,UNDERPRICED,-4.8σ vs median
+trade,T0004047,0.85,UNDERPRICED,-4.8σ vs median
+trade,T0004041,0.85,UNDERPRICED,-4.8σ vs median
+trade,T0004285,0.85,UNDERPRICED,-4.8σ vs median
+trade,T0004278,0.85,UNDERPRICED,-4.8σ vs median
+trade,T0004436,0.85,UNDERPRICED,-4.8σ vs median
+trade,T0004506,0.85,UNDERPRICED,-4.8σ vs median
+trade,T0005393,0.85,OVERPRICED,+8.7σ vs median
+trade,T0005401,0.85,OVERPRICED,+8.7σ vs median
+trade,T0005600,0.85,UNDERPRICED,-19.5σ vs median
+trade,T0000450,0.85,UNDERPRICED,-3.7σ vs median
+trade,T0000477,0.85,UNDERPRICED,-3.7σ vs median
+trade,T0000464,0.85,UNDERPRICED,-3.7σ vs median
+trade,T0000514,0.85,UNDERPRICED,-3.7σ vs median
+trade,T0000506,0.85,UNDERPRICED,-3.7σ vs median
+trade,T0001721,0.85,UNDERPRICED,-12.4σ vs median
+trade,T0001723,0.85,UNDERPRICED,-12.4σ vs median
+trade,T0001718,0.85,UNDERPRICED,-12.4σ vs median
+trade,T0001713,0.85,UNDERPRICED,-12.4σ vs median
+trade,T0001833,0.85,UNDERPRICED,-12.4σ vs median
+trade,T0001921,0.85,UNDERPRICED,-12.4σ vs median
+trade,T0001911,0.85,UNDERPRICED,-12.4σ vs median
+trade,T0001895,0.85,UNDERPRICED,-12.4σ vs median
+trade,T0001955,0.85,UNDERPRICED,-12.4σ vs median
+trade,T0001954,0.85,UNDERPRICED,-12.4σ vs median
+trade,T0001965,0.85,UNDERPRICED,-12.4σ vs median
+trade,T0002021,0.85,UNDERPRICED,-12.4σ vs median
+trade,T0002075,0.85,UNDERPRICED,-12.4σ vs median
+trade,T0002281,0.85,UNDERPRICED,-12.4σ vs median
+trade,T0002299,0.85,UNDERPRICED,-12.4σ vs median
+trade,T0002311,0.85,UNDERPRICED,-12.4σ vs median
+trade,T0002369,0.85,UNDERPRICED,-12.4σ vs median
+trade,T0002350,0.85,UNDERPRICED,-12.4σ vs median
+trade,T0005261,0.85,UNDERPRICED,-13.0σ vs median
+trade,T0005242,0.85,UNDERPRICED,-13.0σ vs median
+trade,T0005300,0.85,UNDERPRICED,-13.0σ vs median
+trade,T0005347,0.85,UNDERPRICED,-13.0σ vs median
+trade,T0005565,0.85,UNDERPRICED,-13.0σ vs median
+trade,T0005557,0.85,UNDERPRICED,-13.0σ vs median
+trade,T0005667,0.85,UNDERPRICED,-31.8σ vs median
+trade,T0005705,0.85,OVERPRICED,+132.4σ vs median
+trade,T0005703,0.85,OVERPRICED,+132.4σ vs median
+trade,T0000157,0.85,UNDERPRICED,-132.4σ vs median
+trade,T0000213,0.85,UNDERPRICED,-132.4σ vs median
+trade,T0000178,0.85,UNDERPRICED,-132.4σ vs median
+trade,T0000236,0.85,UNDERPRICED,-132.4σ vs median
+trade,T0005753,0.85,UNDERPRICED,-71.9σ vs median
+trade,T0002827,0.85,OVERPRICED,+13.0σ vs median
+trade,T0002901,0.85,OVERPRICED,+13.0σ vs median
+trade,T0003004,0.85,OVERPRICED,+13.0σ vs median
+trade,T0003095,0.85,OVERPRICED,+13.0σ vs median
+trade,T0003142,0.85,OVERPRICED,+22.1σ vs median
+trade,T0003200,0.85,OVERPRICED,+17.9σ vs median
+trade,T0003269,0.85,OVERPRICED,+17.9σ vs median
+trade,T0003262,0.85,OVERPRICED,+17.9σ vs median
+trade,T0003301,0.85,OVERPRICED,+17.9σ vs median
+trade,T0003336,0.85,OVERPRICED,+17.9σ vs median
+trade,T0003390,0.85,OVERPRICED,+17.9σ vs median
+trade,T0003421,0.85,OVERPRICED,+17.9σ vs median
+trade,T0003481,0.85,OVERPRICED,+17.9σ vs median
+trade,T0005563,0.85,OVERPRICED,+12.1σ vs median
+trade,T0005671,0.85,OVERPRICED,+12.1σ vs median
+trade,T0005669,0.85,OVERPRICED,+12.1σ vs median
+trade,T0005331,0.85,UNDERPRICED,-3.0σ vs median
+trade,T0005324,0.85,UNDERPRICED,-3.0σ vs median
+trade,T0005360,0.85,UNDERPRICED,-3.0σ vs median
+trade,T0005364,0.85,UNDERPRICED,-3.0σ vs median
+trade,T0005383,0.85,UNDERPRICED,-3.0σ vs median
+trade,T0005342,0.85,UNDERPRICED,-3.0σ vs median
+trade,T0005406,0.85,UNDERPRICED,-3.0σ vs median
+trade,T0005410,0.85,UNDERPRICED,-3.0σ vs median
+trade,T0005471,0.85,UNDERPRICED,-3.0σ vs median
+trade,T0005483,0.85,UNDERPRICED,-3.0σ vs median
+trade,T0005539,0.85,UNDERPRICED,-3.0σ vs median
+trade,T0005644,0.85,UNDERPRICED,-3.0σ vs median
+trade,T0000187,0.85,UNDERPRICED,-9.8σ vs median
+trade,T0000202,0.85,UNDERPRICED,-9.8σ vs median
+trade,T0000270,0.85,UNDERPRICED,-9.8σ vs median
+trade,T0000230,0.85,UNDERPRICED,-9.8σ vs median
+trade,T0000229,0.85,UNDERPRICED,-9.8σ vs median
+trade,T0004869,0.85,UNDERPRICED,-4.1σ vs median
+trade,T0004858,0.85,UNDERPRICED,-4.1σ vs median
+trade,T0004929,0.85,UNDERPRICED,-4.1σ vs median
+trade,T0004953,0.85,UNDERPRICED,-4.1σ vs median
+trade,T0005096,0.85,UNDERPRICED,-4.1σ vs median
+trade,T0005184,0.85,UNDERPRICED,-4.1σ vs median
+trade,T0005263,0.85,UNDERPRICED,-4.1σ vs median
+trade,T0005260,0.85,UNDERPRICED,-4.1σ vs median
+trade,T0005372,0.85,UNDERPRICED,-4.1σ vs median
+trade,T0005437,0.85,UNDERPRICED,-4.1σ vs median
+trade,T0005420,0.85,UNDERPRICED,-4.1σ vs median
+trade,T0005462,0.85,UNDERPRICED,-4.1σ vs median
+trade,T0005555,0.85,UNDERPRICED,-4.1σ vs median
+trade,T0005507,0.85,UNDERPRICED,-4.1σ vs median
+trade,T0005527,0.85,UNDERPRICED,-4.1σ vs median
+trade,T0005525,0.85,UNDERPRICED,-4.1σ vs median
+trade,T0005771,0.85,UNDERPRICED,-5.0σ vs median
+trade,T0004464,0.85,UNDERPRICED,-4.3σ vs median
+trade,T0004531,0.85,UNDERPRICED,-5.7σ vs median
+trade,T0004521,0.85,UNDERPRICED,-4.3σ vs median
+trade,T0004525,0.85,UNDERPRICED,-4.3σ vs median
+trade,T0004516,0.85,UNDERPRICED,-4.3σ vs median
+trade,T0004634,0.85,UNDERPRICED,-4.3σ vs median
+trade,T0004626,0.85,UNDERPRICED,-4.3σ vs median
+trade,T0004659,0.85,UNDERPRICED,-4.3σ vs median
+trade,T0004707,0.85,UNDERPRICED,-4.3σ vs median
+trade,T0004731,0.85,UNDERPRICED,-4.3σ vs median
+trade,T0004728,0.85,UNDERPRICED,-4.3σ vs median
+trade,T0004811,0.85,UNDERPRICED,-4.3σ vs median
+trade,T0004825,0.85,UNDERPRICED,-4.3σ vs median
+trade,T0004823,0.85,UNDERPRICED,-4.3σ vs median
+trade,T0004819,0.85,UNDERPRICED,-4.3σ vs median
+trade,T0004845,0.85,UNDERPRICED,-2.5σ vs median
+trade,T0000366,0.85,UNDERPRICED,-13.1σ vs median
+trade,T0000387,0.85,UNDERPRICED,-6.6σ vs median
+trade,T0000458,0.85,UNDERPRICED,-5.2σ vs median
+trade,T0000471,0.85,UNDERPRICED,-4.2σ vs median
+trade,T0005217,0.85,OVERPRICED,+11.8σ vs median
+trade,T0005240,0.85,UNDERPRICED,-13.4σ vs median
+trade,T0005340,0.85,UNDERPRICED,-8.8σ vs median
+trade,T0005292,0.85,UNDERPRICED,-7.4σ vs median
+trade,T0005384,0.85,UNDERPRICED,-7.4σ vs median
+trade,T0005371,0.85,UNDERPRICED,-6.5σ vs median
+trade,T0005447,0.85,UNDERPRICED,-8.8σ vs median
+trade,T0005411,0.85,UNDERPRICED,-7.4σ vs median
+trade,T0005424,0.85,UNDERPRICED,-6.5σ vs median
+trade,T0005467,0.85,UNDERPRICED,-7.4σ vs median
+trade,T0005567,0.85,UNDERPRICED,-7.4σ vs median
+trade,T0005585,0.85,UNDERPRICED,-7.4σ vs median
+trade,T0005602,0.85,UNDERPRICED,-6.5σ vs median
+trade,T0005594,0.85,UNDERPRICED,-5.8σ vs median
+trade,T0005615,0.85,UNDERPRICED,-5.2σ vs median
+trade,T0005655,0.85,UNDERPRICED,-5.2σ vs median
+trade,T0005673,0.85,UNDERPRICED,-5.2σ vs median
+trade,T0005683,0.85,UNDERPRICED,-5.2σ vs median
+trade,T0000342,0.85,UNDERPRICED,-3.0σ vs median
+trade,T0003003,0.85,UNDERPRICED,-3.1σ vs median
+trade,T0001196,0.85,UNDERPRICED,-42.1σ vs median
+trade,T0001201,0.85,UNDERPRICED,-20.7σ vs median
+trade,T0001278,0.85,UNDERPRICED,-20.7σ vs median
+trade,T0001261,0.85,UNDERPRICED,-20.7σ vs median
+trade,T0001283,0.85,UNDERPRICED,-3.6σ vs median
+trade,T0000265,0.85,UNDERPRICED,-19.7σ vs median
+trade,T0000315,0.85,UNDERPRICED,-19.7σ vs median
+trade,T0000373,0.85,UNDERPRICED,-23.0σ vs median
+trade,T0000459,0.85,UNDERPRICED,-29.8σ vs median
+trade,T0000430,0.85,UNDERPRICED,-29.8σ vs median
+trade,T0000483,0.85,UNDERPRICED,-29.8σ vs median
+trade,T0001464,0.85,OVERPRICED,+7.6σ vs median
+trade,T0001508,0.85,OVERPRICED,+3.8σ vs median
+trade,T0003515,0.85,UNDERPRICED,-6.1σ vs median
+trade,T0003671,0.85,UNDERPRICED,-6.1σ vs median
+trade,T0003738,0.85,UNDERPRICED,-6.1σ vs median
+trade,T0003806,0.85,UNDERPRICED,-6.1σ vs median
+trade,T0003941,0.85,UNDERPRICED,-9.5σ vs median
+trade,T0004037,0.85,UNDERPRICED,-6.1σ vs median
+trade,T0004039,0.85,UNDERPRICED,-6.1σ vs median
+trade,T0004139,0.85,UNDERPRICED,-6.1σ vs median
+trade,T0004300,0.85,UNDERPRICED,-6.1σ vs median
+trade,T0004319,0.85,UNDERPRICED,-6.1σ vs median
+trade,T0002658,0.85,UNDERPRICED,-6.2σ vs median
+trade,T0002701,0.85,UNDERPRICED,-3.1σ vs median
+trade,T0002707,0.85,UNDERPRICED,-3.1σ vs median
+trade,T0002746,0.85,UNDERPRICED,-3.4σ vs median
+trade,T0002732,0.85,UNDERPRICED,-3.1σ vs median
+trade,T0005763,0.85,UNDERPRICED,-10.5σ vs median
+trade,T0000077,0.85,UNDERPRICED,-14.9σ vs median
+trade,T0000092,0.85,UNDERPRICED,-14.9σ vs median
+trade,T0000117,0.85,UNDERPRICED,-16.3σ vs median
+trade,T0000198,0.85,UNDERPRICED,-16.3σ vs median
+trade,T0000242,0.85,UNDERPRICED,-16.3σ vs median
+trade,T0000306,0.85,UNDERPRICED,-16.3σ vs median
+trade,T0000308,0.85,UNDERPRICED,-16.3σ vs median
+trade,T0000883,0.85,UNDERPRICED,-5.2σ vs median
+trade,T0000975,0.85,UNDERPRICED,-2.6σ vs median
+trade,T0000046,0.85,UNDERPRICED,-9.2σ vs median
+trade,T0000116,0.85,UNDERPRICED,-9.2σ vs median
+trade,T0000223,0.85,UNDERPRICED,-9.2σ vs median
+trade,T0000212,0.85,UNDERPRICED,-9.2σ vs median
+trade,T0000249,0.85,UNDERPRICED,-9.2σ vs median
+trade,T0000339,0.85,UNDERPRICED,-10.1σ vs median
+trade,T0000331,0.85,UNDERPRICED,-10.1σ vs median
+trade,T0003332,0.85,OVERPRICED,+8.5σ vs median
+trade,T0000820,0.85,OVERPRICED,+8.2σ vs median
+trade,T0000909,0.85,OVERPRICED,+8.2σ vs median
+trade,T0000966,0.85,OVERPRICED,+8.2σ vs median
+trade,T0000940,0.85,OVERPRICED,+8.2σ vs median
+trade,T0000956,0.85,OVERPRICED,+8.2σ vs median
+trade,T0001056,0.85,OVERPRICED,+8.2σ vs median
+trade,T0001060,0.85,OVERPRICED,+8.2σ vs median
+trade,T0001094,0.85,OVERPRICED,+3.4σ vs median
+trade,T0001228,0.85,OVERPRICED,+3.4σ vs median
+trade,T0001431,0.85,OVERPRICED,+3.4σ vs median
+trade,T0001516,0.85,OVERPRICED,+3.4σ vs median
+trade,T0001521,0.85,OVERPRICED,+3.4σ vs median
+trade,T0001591,0.85,OVERPRICED,+3.4σ vs median
+trade,T0001575,0.85,OVERPRICED,+3.4σ vs median
+trade,T0001650,0.85,OVERPRICED,+3.4σ vs median
+trade,T0005749,0.85,UNDERPRICED,-35.7σ vs median
+trade,T0003664,0.85,OVERPRICED,+5.8σ vs median
+trade,T0003639,0.85,OVERPRICED,+5.8σ vs median
+trade,T0003684,0.85,OVERPRICED,+5.8σ vs median
+trade,T0003775,0.85,OVERPRICED,+5.8σ vs median
+trade,T0003827,0.85,OVERPRICED,+5.8σ vs median
+trade,T0003919,0.85,UNDERPRICED,-10.0σ vs median
+trade,T0003869,0.85,UNDERPRICED,-10.0σ vs median
+trade,T0003866,0.85,UNDERPRICED,-10.0σ vs median
+trade,T0003987,0.85,UNDERPRICED,-10.0σ vs median
+trade,T0003929,0.85,UNDERPRICED,-10.0σ vs median
+trade,T0004012,0.85,UNDERPRICED,-10.0σ vs median
+trade,T0004010,0.85,UNDERPRICED,-10.0σ vs median
+trade,T0004106,0.85,UNDERPRICED,-10.0σ vs median
+trade,T0004201,0.85,UNDERPRICED,-10.0σ vs median
+trade,T0004208,0.85,UNDERPRICED,-10.0σ vs median
+trade,T0004263,0.85,UNDERPRICED,-10.0σ vs median
+trade,T0004299,0.85,UNDERPRICED,-10.0σ vs median
+trade,T0004397,0.85,UNDERPRICED,-10.0σ vs median
+trade,T0005751,0.85,UNDERPRICED,-805.2σ vs median
+trade,T0005754,0.85,UNDERPRICED,-789.1σ vs median
+trade,T0005744,0.85,UNDERPRICED,-789.1σ vs median
+trade,T0002826,0.85,OVERPRICED,+68.3σ vs median
+trade,T0003194,0.85,OVERPRICED,+68.3σ vs median
+trade,T0005750,0.85,UNDERPRICED,-736.7σ vs median
+trade,T0005748,0.85,UNDERPRICED,-736.7σ vs median
+trade,T0000989,0.85,OVERPRICED,+294.3σ vs median
+trade,T0005752,0.85,UNDERPRICED,-736.7σ vs median
+trade,T0001045,0.85,OVERPRICED,+294.3σ vs median
+trade,T0001233,0.85,OVERPRICED,+294.3σ vs median
+trade,T0003042,0.85,UNDERPRICED,-8.4σ vs median
+trade,T0003680,0.85,UNDERPRICED,-96.7σ vs median
+trade,T0003772,0.85,UNDERPRICED,-96.7σ vs median
+trade,T0003802,0.85,UNDERPRICED,-96.7σ vs median
+trade,T0003917,0.85,UNDERPRICED,-31.2σ vs median
+trade,T0004094,0.85,UNDERPRICED,-15.6σ vs median
+trade,T0004136,0.85,UNDERPRICED,-10.4σ vs median
+trade,T0004163,0.85,UNDERPRICED,-7.8σ vs median
+trade,T0005757,0.85,UNDERPRICED,-14.4σ vs median
+trade,T0003700,0.85,OVERPRICED,+5.8σ vs median
+trade,T0003687,0.85,OVERPRICED,+2.9σ vs median
+trade,T0003890,0.85,OVERPRICED,+8.7σ vs median
+trade,T0003894,0.85,OVERPRICED,+8.7σ vs median
+trade,T0003938,0.85,OVERPRICED,+8.7σ vs median
+trade,T0003960,0.85,OVERPRICED,+8.7σ vs median
+trade,T0003980,0.85,OVERPRICED,+8.7σ vs median
+trade,T0003924,0.85,OVERPRICED,+8.7σ vs median
+trade,T0004058,0.85,OVERPRICED,+8.7σ vs median
+trade,T0004090,0.85,OVERPRICED,+8.7σ vs median
+trade,T0004311,0.85,OVERPRICED,+7.2σ vs median
+trade,T0004302,0.85,OVERPRICED,+7.2σ vs median
+trade,T0004301,0.85,OVERPRICED,+7.2σ vs median
+trade,T0004371,0.85,OVERPRICED,+3.3σ vs median
+trade,T0004385,0.85,OVERPRICED,+3.3σ vs median
+trade,T0004342,0.85,OVERPRICED,+3.3σ vs median
+trade,T0004421,0.85,OVERPRICED,+3.3σ vs median
+trade,T0004494,0.85,OVERPRICED,+3.0σ vs median
+trade,T0004533,0.85,OVERPRICED,+2.6σ vs median
+trade,T0004553,0.85,OVERPRICED,+2.6σ vs median
+trade,T0004511,0.85,OVERPRICED,+2.6σ vs median
+trade,T0004581,0.85,OVERPRICED,+2.6σ vs median
+trade,T0004670,0.85,OVERPRICED,+2.6σ vs median
+trade,T0005106,0.85,UNDERPRICED,-3.6σ vs median
+trade,T0005091,0.85,UNDERPRICED,-3.6σ vs median
+trade,T0005094,0.85,UNDERPRICED,-3.6σ vs median
+trade,T0005218,0.85,UNDERPRICED,-2.9σ vs median
+trade,T0005173,0.85,UNDERPRICED,-2.9σ vs median
+trade,T0005177,0.85,UNDERPRICED,-2.9σ vs median
+trade,T0005163,0.85,UNDERPRICED,-2.9σ vs median
+trade,T0005244,0.85,UNDERPRICED,-2.9σ vs median
+trade,T0005289,0.85,UNDERPRICED,-2.9σ vs median
+trade,T0005299,0.85,UNDERPRICED,-2.9σ vs median
+trade,T0005330,0.85,UNDERPRICED,-2.9σ vs median
+trade,T0005451,0.85,UNDERPRICED,-2.9σ vs median
+trade,T0005465,0.85,UNDERPRICED,-2.9σ vs median
+trade,T0005556,0.85,UNDERPRICED,-2.9σ vs median
+trade,T0005592,0.85,UNDERPRICED,-2.9σ vs median
+trade,T0005590,0.85,UNDERPRICED,-2.9σ vs median
+trade,T0000438,0.85,RAPID_FLIP,41% relist in 0m
+trade,T0005765,0.85,RAPID_FLIP,39% relist in 17m
+trade,T0005755,0.85,RAPID_FLIP,40% relist in 6m
+trade,T0001441,0.85,RAPID_FLIP,30% relist in 0m
+trade,T0005767,0.85,RAPID_FLIP,39% relist in 11m
+trade,T0002424,0.85,RAPID_FLIP,38% relist in 0m
+trade,T0003243,0.85,RAPID_FLIP,47% relist in 0m
+trade,T0004426,0.85,RAPID_FLIP,31% relist in 0m
+trade,T0004875,0.85,RAPID_FLIP,42% relist in 0m
+trade,T0005766,0.85,RAPID_FLIP,second leg of collusive flip
+trade,T0005756,0.85,RAPID_FLIP,second leg of collusive flip
+trade,T0005772,0.85,RAPID_FLIP,second leg of collusive flip
+trade,T0005760,0.85,RAPID_FLIP,second leg of collusive flip
+trade,T0005768,0.85,RAPID_FLIP,second leg of collusive flip
+trade,T0005758,0.85,RAPID_FLIP,second leg of collusive flip
+trade,T0005770,0.85,RAPID_FLIP,second leg of collusive flip
+trade,T0005764,0.85,RAPID_FLIP,second leg of collusive flip
+trade,T0005745,0.9,MULE_RULE,"buyer_age=11d, price 983 ≤ 50% of ref 3457"
+trade,T0005778,0.9,WASH_CONC,11 trades; 3 actors cover ≥75% of appearances
+trade,T0005779,0.9,WASH_CONC,11 trades; 3 actors cover ≥75% of appearances
+trade,T0005780,0.9,WASH_CONC,11 trades; 3 actors cover ≥75% of appearances
+trade,T0003124,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0003165,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0003195,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0003152,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0003309,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0003266,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0004509,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0004619,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0004593,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0004676,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0004682,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0004749,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0004773,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0005714,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0000071,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0000056,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005715,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005712,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005716,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005711,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005713,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005717,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0000278,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0000288,0.9,WASH_CONC,13 trades; 3 actors cover ≥75% of appearances
+trade,T0005080,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0005154,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0005119,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0005135,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0005169,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0005237,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0005309,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0002432,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005794,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005798,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005792,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005797,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0002565,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0002552,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0002555,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0002516,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005799,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005791,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005793,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005795,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005796,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0002592,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0002696,0.9,WASH_CONC,8 trades; 3 actors cover ≥75% of appearances
+trade,T0002761,0.9,WASH_CONC,8 trades; 3 actors cover ≥75% of appearances
+trade,T0000861,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0000912,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0000965,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0000947,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0001073,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0001064,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0001043,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0002664,0.9,WASH_CONC,18 trades; 3 actors cover ≥75% of appearances
+trade,T0005782,0.9,WASH_CONC,18 trades; 3 actors cover ≥75% of appearances
+trade,T0005783,0.9,WASH_CONC,18 trades; 3 actors cover ≥75% of appearances
+trade,T0002716,0.9,WASH_CONC,18 trades; 3 actors cover ≥75% of appearances
+trade,T0002728,0.9,WASH_CONC,18 trades; 3 actors cover ≥75% of appearances
+trade,T0005788,0.9,WASH_CONC,18 trades; 3 actors cover ≥75% of appearances
+trade,T0005786,0.9,WASH_CONC,18 trades; 3 actors cover ≥75% of appearances
+trade,T0005785,0.9,WASH_CONC,18 trades; 3 actors cover ≥75% of appearances
+trade,T0002777,0.9,WASH_CONC,18 trades; 3 actors cover ≥75% of appearances
+trade,T0002776,0.9,WASH_CONC,18 trades; 3 actors cover ≥75% of appearances
+trade,T0005787,0.9,WASH_CONC,18 trades; 3 actors cover ≥75% of appearances
+trade,T0005784,0.9,WASH_CONC,18 trades; 3 actors cover ≥75% of appearances
+trade,T0005781,0.9,WASH_CONC,18 trades; 3 actors cover ≥75% of appearances
+trade,T0005789,0.9,WASH_CONC,18 trades; 3 actors cover ≥75% of appearances
+trade,T0005790,0.9,WASH_CONC,18 trades; 3 actors cover ≥75% of appearances
+trade,T0002799,0.9,WASH_CONC,18 trades; 3 actors cover ≥75% of appearances
+trade,T0002838,0.9,WASH_CONC,18 trades; 3 actors cover ≥75% of appearances
+trade,T0002883,0.9,WASH_CONC,18 trades; 3 actors cover ≥75% of appearances
+trade,T0002935,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0002893,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0000751,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0000775,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0000785,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0000841,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0000868,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0000897,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0000926,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0002042,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0002053,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0002027,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0002054,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0002199,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0002259,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0000812,0.9,WASH_CONC,9 trades; 3 actors cover ≥75% of appearances
+trade,T0000808,0.9,WASH_CONC,9 trades; 3 actors cover ≥75% of appearances
+trade,T0000902,0.9,WASH_CONC,9 trades; 3 actors cover ≥75% of appearances
+trade,T0000894,0.9,WASH_CONC,9 trades; 3 actors cover ≥75% of appearances
+trade,T0000938,0.9,WASH_CONC,9 trades; 3 actors cover ≥75% of appearances
+trade,T0000969,0.9,WASH_CONC,9 trades; 3 actors cover ≥75% of appearances
+trade,T0000927,0.9,WASH_CONC,9 trades; 3 actors cover ≥75% of appearances
+trade,T0001007,0.9,WASH_CONC,9 trades; 3 actors cover ≥75% of appearances
+trade,T0001033,0.9,WASH_CONC,9 trades; 3 actors cover ≥75% of appearances
+trade,T0001122,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0001162,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0001180,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0001185,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0001230,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0005696,0.9,WASH_CONC,13 trades; 3 actors cover ≥75% of appearances
+trade,T0000044,0.9,WASH_CONC,13 trades; 3 actors cover ≥75% of appearances
+trade,T0005695,0.9,WASH_CONC,13 trades; 3 actors cover ≥75% of appearances
+trade,T0005700,0.9,WASH_CONC,13 trades; 3 actors cover ≥75% of appearances
+trade,T0005699,0.9,WASH_CONC,13 trades; 3 actors cover ≥75% of appearances
+trade,T0005698,0.9,WASH_CONC,13 trades; 3 actors cover ≥75% of appearances
+trade,T0005702,0.9,WASH_CONC,13 trades; 3 actors cover ≥75% of appearances
+trade,T0005697,0.9,WASH_CONC,13 trades; 3 actors cover ≥75% of appearances
+trade,T0005701,0.9,WASH_CONC,13 trades; 3 actors cover ≥75% of appearances
+trade,T0004884,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0004853,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0004935,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0004986,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0005097,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0005055,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0005183,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0005210,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0005207,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0000031,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0000034,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0000003,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0000063,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005720,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005723,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005725,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005722,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0000112,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005726,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0000317,0.9,WASH_CONC,12 trades; 3 actors cover ≥75% of appearances
+trade,T0004968,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0005074,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0005148,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0005134,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0005215,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0005197,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0005213,0.9,WASH_CONC,7 trades; 3 actors cover ≥75% of appearances
+trade,T0000041,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0000017,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0000097,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005708,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005706,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005710,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005704,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005707,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0005709,0.9,WASH_CONC,15 trades; 3 actors cover ≥75% of appearances
+trade,T0004143,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0004197,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0004222,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0004211,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0004246,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0004363,0.9,WASH_CONC,6 trades; 3 actors cover ≥75% of appearances
+trade,T0000979,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0000922,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0000985,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0001014,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0001008,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0005804,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0005805,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0005807,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0001055,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0001059,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0005801,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0005808,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0005800,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0005806,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0005809,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0005802,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0005803,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0001163,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0001184,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0001218,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0001209,0.9,WASH_CONC,19 trades; 3 actors cover ≥75% of appearances
+trade,T0005728,0.9,WASH_CONC,13 trades; 3 actors cover ≥75% of appearances
+trade,T0005730,0.9,WASH_CONC,13 trades; 3 actors cover ≥75% of appearances
+trade,T0005729,0.9,WASH_CONC,13 trades; 3 actors cover ≥75% of appearances
+trade,T0005731,0.9,WASH_CONC,13 trades; 3 actors cover ≥75% of appearances
+trade,T0005733,0.9,WASH_CONC,13 trades; 3 actors cover ≥75% of appearances
+trade,T0005727,0.9,WASH_CONC,13 trades; 3 actors cover ≥75% of appearances
+trade,T0005732,0.9,WASH_CONC,13 trades; 3 actors cover ≥75% of appearances
+trade,T0005734,0.9,WASH_CONC,13 trades; 3 actors cover ≥75% of appearances
+trade,T0000001,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000027,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000030,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000037,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000008,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000012,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005735,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005737,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005739,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000084,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000076,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000098,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000095,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000094,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000078,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000051,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000069,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000064,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000080,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000062,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005740,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005736,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005742,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005741,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005738,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000151,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000159,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000166,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000132,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000123,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000122,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000184,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000191,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000221,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000203,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000232,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000240,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000239,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000257,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000280,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000243,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000266,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000264,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000275,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000289,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000297,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000337,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000344,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000296,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000314,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000284,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000286,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000328,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000310,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000302,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000341,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000347,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000327,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000320,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000323,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000348,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000367,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000362,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000360,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000358,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000399,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000355,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000380,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000379,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000419,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000392,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000396,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000391,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000406,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000397,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000468,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000469,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000480,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000479,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000487,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000481,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000467,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000454,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000482,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000473,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000463,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000440,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000448,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000444,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000442,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000485,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000449,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000436,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000428,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000457,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000492,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000539,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000550,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000519,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000538,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000493,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000500,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000537,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000503,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000545,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000496,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000494,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000498,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000552,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000508,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000513,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000516,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000556,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000526,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000530,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000528,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000532,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000533,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000560,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000541,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000559,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000573,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000574,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000589,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000588,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000601,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000583,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000586,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000578,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000585,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000613,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000597,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000595,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000603,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000592,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000604,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000634,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000631,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000636,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000629,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000622,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000626,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000627,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000628,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000644,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000671,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000668,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000667,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000665,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000662,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000672,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000663,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000673,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000658,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000657,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000659,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000690,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000691,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000706,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000693,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000688,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000694,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000708,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000684,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000711,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000710,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000685,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000714,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000678,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000679,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000677,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000707,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000733,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000700,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000705,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000702,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000724,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000720,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000719,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000790,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000779,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000782,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000777,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000786,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000787,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000788,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000789,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000794,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000796,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000762,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000770,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000769,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000753,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000752,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000755,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000809,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000822,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000823,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000805,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000798,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000802,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000815,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000832,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000851,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000827,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000826,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000839,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000836,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000834,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000829,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000893,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000856,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000913,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000860,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000878,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000879,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000867,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000877,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000864,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000862,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000910,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000901,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000906,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000870,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000872,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000907,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000887,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000889,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000888,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000933,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000934,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000935,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000930,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000931,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000951,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000957,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000959,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000960,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000961,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000928,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000962,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000948,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000977,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000967,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000921,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000955,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000973,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000963,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000918,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001004,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001003,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000994,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001010,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001013,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000996,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000998,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001040,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001031,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000997,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001039,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001024,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001016,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001019,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001021,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001023,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0000999,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001052,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001069,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001074,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001066,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001079,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001067,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001041,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001042,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001048,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001049,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001051,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001053,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001061,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001068,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001114,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001107,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001099,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001098,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001093,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001090,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001109,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001116,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001120,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001128,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001144,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001118,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001133,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001127,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001139,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001123,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001125,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001138,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001136,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001176,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001193,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001197,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001192,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001194,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001195,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001198,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001187,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001190,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001150,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001152,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001156,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001160,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001158,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001167,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001203,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001219,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001222,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001210,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001225,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001245,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001237,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001226,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001231,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001232,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001250,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001309,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001285,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001279,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001259,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001256,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001304,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001306,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001296,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001315,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001312,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001316,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001271,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001273,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001318,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001300,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001297,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001293,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001292,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001294,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001314,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001321,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001375,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001395,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001370,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001374,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001362,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001391,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001397,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001392,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001352,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001390,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001349,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001344,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001351,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001346,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001388,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001387,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001333,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001335,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001452,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001447,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001456,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001416,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001511,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001474,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001483,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001563,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001533,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001527,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001564,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001561,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001558,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001546,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001565,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001555,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001541,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001580,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001581,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001590,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001603,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001594,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001615,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001620,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001617,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001588,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001627,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001611,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001608,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001604,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001665,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001685,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001669,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001677,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001681,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001683,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001684,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001653,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001630,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001688,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001691,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001689,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001639,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001637,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001703,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001696,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001694,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001692,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001701,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001714,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001739,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001747,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001791,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001789,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001782,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001795,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001794,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001769,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001753,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001751,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001808,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001756,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001757,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001768,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001845,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001869,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001851,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001853,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001865,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001861,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001857,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001815,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001828,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001838,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001843,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001825,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001899,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001897,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001884,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001883,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001875,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001920,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001928,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001930,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001901,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001894,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001890,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001917,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001910,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001906,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001994,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001974,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001986,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001979,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001939,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001980,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0001961,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002020,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002010,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002023,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002019,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002022,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002013,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002049,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002028,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002038,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002012,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002033,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002036,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002100,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002108,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002064,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002099,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002101,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002086,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002080,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002155,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002152,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002138,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002119,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002125,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002120,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002144,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002126,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002173,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002115,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002235,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002180,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002186,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002203,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002181,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002285,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002283,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002278,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002273,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002320,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002297,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002326,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002365,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002349,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002393,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002413,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002404,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002428,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002435,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002443,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002487,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002500,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002502,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002561,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002519,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002525,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002524,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002579,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002569,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002580,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002607,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002608,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002599,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002670,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002630,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002633,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002626,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002660,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002692,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002678,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002713,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002708,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002676,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002711,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002675,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002745,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002743,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002742,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002738,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002759,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002751,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002734,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002783,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002780,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002802,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002789,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002823,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002818,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002814,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002872,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002873,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002912,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002915,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002948,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002907,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002906,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002949,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003010,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002974,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002955,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002987,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002978,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002967,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002953,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002961,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003000,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0002965,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003066,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003049,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003055,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003019,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003079,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003088,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003093,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003193,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003168,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003181,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003163,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003175,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003166,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003144,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003146,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003226,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003227,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003204,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003202,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003207,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003221,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003222,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003251,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003245,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003249,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003257,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003219,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003217,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003228,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003229,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003242,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003237,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003230,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003240,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003312,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003268,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003284,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003272,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003278,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003287,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003264,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003298,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003296,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003294,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003303,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003291,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003339,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003341,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003330,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003326,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003323,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003322,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003353,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003337,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003347,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003318,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003334,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003403,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003404,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003381,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003435,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003432,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003426,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003401,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003415,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003402,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003418,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003414,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003411,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003437,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003470,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003451,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003464,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003438,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003441,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003450,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003472,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003496,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003457,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003453,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003452,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003492,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003483,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003480,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003552,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003534,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003545,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003553,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003507,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003529,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003525,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003523,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003544,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003541,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003536,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003586,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003569,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003570,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003580,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003587,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003609,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003621,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003655,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003648,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003622,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003693,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003669,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003666,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003707,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003677,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003706,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003752,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003732,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003739,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003742,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003741,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003784,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003782,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003778,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003785,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003773,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003829,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003834,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003856,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003837,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003848,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003841,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003843,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003812,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003810,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003803,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003822,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003820,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003791,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003790,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003920,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003911,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003895,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003862,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003873,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003892,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003883,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003959,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003988,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003947,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003923,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003939,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003927,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003949,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003997,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0003991,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004019,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004042,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004045,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004046,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004005,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004023,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004015,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004052,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004032,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004026,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004100,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004064,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004084,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004078,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004102,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004098,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004091,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004097,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004118,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004112,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004145,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004166,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004203,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004168,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004178,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004241,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004250,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004325,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004318,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004306,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004390,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004379,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004343,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004360,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004357,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004400,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004392,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004446,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004448,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004410,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004422,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004461,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004486,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004499,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004502,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004452,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004489,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004561,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004560,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004529,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004565,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004539,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004530,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004552,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004571,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004522,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004532,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004534,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004576,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004573,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004606,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004608,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004604,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004650,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004643,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004663,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004673,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004683,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004689,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004690,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004658,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004679,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004666,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004709,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004710,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004696,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004701,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004753,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004729,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004763,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004738,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004747,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004816,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004772,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004807,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004812,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004774,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004829,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004795,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004840,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004833,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004867,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004894,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004916,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004899,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004915,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004930,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004959,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005000,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0004971,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005017,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005010,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005045,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005035,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005068,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005066,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005077,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005059,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005086,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005093,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005062,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005145,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005139,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005140,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005126,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005129,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005130,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005182,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005179,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005164,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005176,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005167,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005168,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005280,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005238,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005257,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005256,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005248,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005308,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005293,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005341,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005339,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005314,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005311,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005326,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005313,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005328,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005376,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005390,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005392,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005394,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005370,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005374,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005386,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005382,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005358,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005359,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005366,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005425,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005415,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005414,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005404,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005431,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005436,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005443,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005494,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005486,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005469,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005478,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005528,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005544,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005543,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005516,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005520,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005517,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005613,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005621,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005576,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005604,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005626,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005586,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005627,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005634,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005639,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005687,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005685,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005650,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005682,0.85,AI_ACCOUNT,account-day flagged by IsolationForest
+trade,T0005643,0.85,AI_ACCOUNT,account-day flagged by IsolationForest

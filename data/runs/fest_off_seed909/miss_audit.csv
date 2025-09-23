@@ -1,0 +1,5 @@
+trade_id,fraud_type,item_id,seller_id,buyer_id,ts,price,item_median,price_vs_median_pct
+T0005702,mule_transfer,I0018,P00523,P00110,2025-01-02 02:14:00,646.11,2584.44,-0.75
+T0005716,collusive_flip,I0019,P00139,P00227,2025-01-02 09:43:00,36.25,36.72,-0.013
+T0005698,mule_transfer,I0018,P00440,P00597,2025-01-02 10:20:00,646.11,2584.44,-0.75
+T0005700,mule_transfer,I0018,P00516,P00454,2025-01-02 11:49:00,646.11,2584.44,-0.75

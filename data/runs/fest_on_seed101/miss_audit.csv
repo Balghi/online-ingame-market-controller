@@ -1,0 +1,2 @@
+trade_id,fraud_type,item_id,seller_id,buyer_id,ts,price,item_median,price_vs_median_pct
+T0005721,collusive_flip,I0034,P00409,P00136,2025-01-03 08:55:00,59.58,60.8,-0.02
