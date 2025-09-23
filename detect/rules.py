@@ -1,4 +1,3 @@
-# detect/rules.py
 import pandas as pd
 import numpy as np
 
@@ -6,7 +5,6 @@ def rolling_item_baselines(trades: pd.DataFrame, window="24h"):
     df = trades.copy()
     df = df.sort_values("ts")
     df["ts"] = pd.to_datetime(df["ts"])
-    # per item rolling median & MAD as robust scale
     out = []
     for it, g in df.groupby("item_id"):
         g = g.set_index("ts").sort_index()
@@ -20,7 +18,7 @@ def rolling_item_baselines(trades: pd.DataFrame, window="24h"):
 def flag_under_overpriced(trades_with_baseline: pd.DataFrame, k=3.5):
     df = trades_with_baseline.copy()
     df["mad"] = df["roll_mad"].replace(0, np.nan).fillna(df["price"].median() * 0.05 + 1e-6)
-    z = (df["price"] - df["roll_median"]) / (1.4826 * df["mad"])  # robust z via MAD
+    z = (df["price"] - df["roll_median"]) / (1.4826 * df["mad"])
     df["z"] = z
     flags = []
     for i, row in df.iterrows():
@@ -36,28 +34,23 @@ def flag_rapid_flip(listings: pd.DataFrame, trades: pd.DataFrame,
                     window_minutes=25, min_markup=0.25,
                     adaptive=True, slow_window_extra=65, slow_min_markup=0.45):
     """
-    Adaptive window: base window (e.g., 25m) OR min(40, 10 + 0.005 * item_median) if adaptive=True.
-    Also checks a slower resale window (base+slow_window_extra) but requires higher markup (slow_min_markup).
+    Detect rapid flip transactions using adaptive window sizes.
     Flags both the buy leg and the resale leg.
     """
     L = listings.copy(); T = trades.copy()
     L["ts"] = pd.to_datetime(L["ts"]); T["ts"] = pd.to_datetime(T["ts"])
 
-    # Per-item median for adaptive window
     item_median = T.groupby("item_id")["price"].median().rename("item_median")
     TT = T.merge(L[["listing_id","list_price","ts"]].rename(columns={"ts":"list_ts"}), on="listing_id", how="left")\
           .merge(item_median, on="item_id", how="left")
 
     flips = []
 
-    # Helper to compute dynamic window minutes
     def dyn_win(row, base):
         if not adaptive or pd.isna(row.get("item_median", None)):
             return base
-        alt = min(40, 10 + 0.005 * float(row["item_median"]))  # scales with price
+        alt = min(40, 10 + 0.005 * float(row["item_median"]))
         return max(base, int(alt))
-
-    # 1) Buy -> quick RE-LIST (same item)
     L_by_item = L.sort_values("ts").groupby("item_id")
     for _, r in TT.iterrows():
         buyer = r["buyer_id"]; it = r["item_id"]; buy_ts = r["ts"]; buy_price = r["price"]
@@ -71,17 +64,13 @@ def flag_rapid_flip(listings: pd.DataFrame, trades: pd.DataFrame,
             if markup >= min_markup:
                 flips.append((r["trade_id"], "RAPID_FLIP",
                               f"{int(markup*100)}% relist in {int((best['ts']-buy_ts).total_seconds()/60)}m"))
-
-    # 2) Buy -> quick RESALE (flag both legs)
     T_by_item = T.sort_values("ts").groupby("item_id")
     for _, r in TT.iterrows():
         buyer = r["buyer_id"]; it = r["item_id"]; buy_ts = r["ts"]; buy_price = r["price"]
         grp = T_by_item.get_group(it)
         w_fast = dyn_win(r, window_minutes)
         w_slow = w_fast + slow_window_extra
-        # fast path (uses min_markup)
         mask_fast = (grp["seller_id"] == buyer) & (grp["ts"] >= buy_ts) & (grp["ts"] <= buy_ts + pd.Timedelta(minutes=w_fast))
-        # slow path (uses higher markup)
         mask_slow = (grp["seller_id"] == buyer) & (grp["ts"] >  buy_ts + pd.Timedelta(minutes=w_fast)) & (grp["ts"] <= buy_ts + pd.Timedelta(minutes=w_slow))
 
         for label, msk, req_markup in [("fast", mask_fast, min_markup), ("slow", mask_slow, slow_min_markup)]:

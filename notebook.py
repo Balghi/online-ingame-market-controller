@@ -1,24 +1,21 @@
-# notebook.py — seed sweeps with/without Festival, rich metrics per run
 import os
 import pandas as pd
 from sim.world import WorldConfig, gen_world
 from sim.market import MarketConfig, simulate_market
 from sim.fraud import FraudConfig, inject_fraud, FlipConfig, inject_collusive_flips
-from sim.fraud import inject_busy_traders_nonfraud  # you added this earlier
+from sim.fraud import inject_busy_traders_nonfraud
 from detect.rules import (
     rolling_item_baselines, flag_under_overpriced, flag_rapid_flip, to_flags_df,
     flag_mule_transfers, flag_wash_trading_heuristic, flag_wash_trading_concentration,
-    # flag_wash_cycles_k3,  # uncomment if you added it
 )
 from features.accounts import make_account_daily_features
 from detect.unsupervised import anomaly_accounts_iforest, map_account_anomalies_to_trades, explain_account_day_features
 
-# ---------- CONFIG ----------
-SEEDS_ON  = [1337, 7, 21, 101, 303]     # festival ON
-SEEDS_OFF = [808, 909, 111, 222, 333]   # festival OFF
+SEEDS_ON  = [1337, 7, 21, 101, 303]
+SEEDS_OFF = [808, 909, 111, 222, 333]
 PLAYERS, ITEMS, HOURS = 600, 40, 96
 
-# Rules / detector knobs (tune here, or wire to CLI later)
+# Configuration parameters
 UNDER_OVER_K = 2.5
 FLIP_WINDOW_MIN = 25
 FLIP_MIN_MARKUP = 0.25
@@ -30,20 +27,16 @@ WASH_CONC_MAX_G   = 3
 WASH_CONC_MIN_TR  = 6
 IF_CONTAM = 0.02
 
-# Festival knobs (only used when festival_on=True)
 FESTIVAL_HOURS = 24
 FESTIVAL_AMP   = 0.25
 FESTIVAL_START = "2025-01-03 00:00:00"
 
-# Busy-but-benign traders (non-fraud, to challenge wash rules)
 BUSY_CLUSTERS = 4
 BUSY_GROUP_SZ = 3
 BUSY_WINDOW_H = 3
 
-# Collusive flips injector config
 FLIP_PAIRS = 10
-FLIP_DELAY_POOL = [5,7,12,18,35,40]  # used inside injector (you may have added this)
-# ---------- /CONFIG ----------
+FLIP_DELAY_POOL = [5,7,12,18,35,40]
 
 def ensure_dir(path: str):
     os.makedirs(path, exist_ok=True)
@@ -75,7 +68,6 @@ def unique_tp_by_family(labels_path: str, flags_path: str) -> pd.DataFrame:
 def run_pipeline(seed: int, outdir: str, festival_on: bool):
     ensure_dir(outdir)
 
-    # 1) world + market
     wcfg = WorldConfig(n_players=PLAYERS, n_items=ITEMS, seed=seed)
     P, I, rng = gen_world(wcfg)
     mcfg = MarketConfig(hours=HOURS, rng=rng,
@@ -84,24 +76,19 @@ def run_pipeline(seed: int, outdir: str, festival_on: bool):
                         festival_hours=FESTIVAL_HOURS,
                         festival_amp=FESTIVAL_AMP)
     L, T = simulate_market(P, I, mcfg)
-
-    # 2) fraud injectors (wash + mules)
     fcfg = FraudConfig(seed=seed+99)
     L2, T2, labels = inject_fraud(P, I, L, T, fcfg)
 
-    # 2b) collusive flips
     flipcfg = FlipConfig(pairs=FLIP_PAIRS, min_markup=0.40, flip_delay_minutes=5, underprice_factor=0.7)
     L3, T3, labels_flip = inject_collusive_flips(P, I, L2, T2, fcfg, flipcfg)
     labels = pd.concat([labels, labels_flip], ignore_index=True)
     L, T = L3, T3
 
-    # 2c) busy-but-benign concentration (non-fraud)
     L, T = inject_busy_traders_nonfraud(P, I, L, T, fcfg,
                                         n_clusters=BUSY_CLUSTERS,
                                         group_size=BUSY_GROUP_SZ,
                                         window_hours=BUSY_WINDOW_H)
 
-    # 3) rules
     tb = rolling_item_baselines(T)
     ou = flag_under_overpriced(tb, k=UNDER_OVER_K)
     rf = flag_rapid_flip(L, T, window_minutes=FLIP_WINDOW_MIN, min_markup=FLIP_MIN_MARKUP)

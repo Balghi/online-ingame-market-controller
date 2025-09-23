@@ -1,4 +1,3 @@
-# sim/fraud.py
 from dataclasses import dataclass
 from typing import List, Tuple
 import numpy as np
@@ -30,11 +29,8 @@ def inject_fraud(players: pd.DataFrame,
     trades2 = trades.copy()
     labels = []
 
-    # --- helper: get typical price per item (rolling or overall median) ---
     ref_price = trades2.groupby("item_id")["price"].median().to_dict()
 
-    # --- 1) Wash trading: small circles repeatedly trade same item at inflated price ---
-    # pick groups
     traders = players[players["playstyle"].isin(["trader", "raider"])].sample(
         n=min(len(players), cfg.wash_groups * cfg.wash_group_size),
         random_state=cfg.seed
@@ -43,7 +39,6 @@ def inject_fraud(players: pd.DataFrame,
         traders[i:i+cfg.wash_group_size] for i in range(0, len(traders), cfg.wash_group_size)
     ][:cfg.wash_groups]
 
-    # choose items with reasonable liquidity (common/rare)
     liquid_items = items[items["rarity"] != "legendary"]["item_id"].tolist()
     base_ts = pd.to_datetime(listings2["ts"].min()) if not listings2.empty else pd.Timestamp("2025-01-01 00:00:00")
     next_list_id = _next_numeric_id(listings2, "listing_id", "L")
@@ -56,7 +51,6 @@ def inject_fraud(players: pd.DataFrame,
         base = ref_price.get(it, float(items.set_index("item_id").loc[it, "base_value"]))
         inflated = round(max(1.0, base * cfg.wash_overprice_factor), 2)
 
-        # cycle trades A->B->C->A...
         order = list(g)
         for k in range(cfg.wash_cycles_per_group):
             seller = order[k % len(order)]
@@ -76,8 +70,6 @@ def inject_fraud(players: pd.DataFrame,
             labels.append(("trade", tid, "wash_trading", 1))
             labels.append(("listing", lid, "wash_trading", 1))
 
-    # --- 2) Mule transfers: high-value to new accounts at absurdly low price ---
-    # pick new-ish accounts & random counterparts
     new_accounts = players.sort_values("account_age_days").head(max(10, cfg.mule_pairs*2))["player_id"].tolist()
     sellers = players["player_id"].sample(n=min(len(players), cfg.mule_pairs), random_state=cfg.seed+1).tolist()
 
@@ -111,14 +103,13 @@ def inject_fraud(players: pd.DataFrame,
     return listings2, trades2, labels_df
 
 def inject_busy_traders_nonfraud(players, items, listings, trades, cfg, n_clusters=4, group_size=3, window_hours=3):
-    """Create concentrated-but-fair trading to challenge wash heuristics. No labels (non-fraud)."""
+    """Create concentrated-but-fair trading patterns."""
     rng = np.random.default_rng(cfg.seed + 404)
     listings2, trades2 = listings.copy(), trades.copy()
     base_ts = pd.to_datetime(listings2["ts"].min()) if not listings2.empty else pd.Timestamp("2025-01-01 00:00:00")
     next_list_id = _next_numeric_id(listings2, "listing_id", "L")
     next_trade_id = _next_numeric_id(trades2, "trade_id", "T")
 
-    # item median as fair price
     med = trades2.groupby("item_id")["price"].median()
     pool = items[items["rarity"]!="legendary"]["item_id"].tolist() or items["item_id"].tolist()
 
@@ -129,12 +120,11 @@ def inject_busy_traders_nonfraud(players, items, listings, trades, cfg, n_cluste
         if len(c) < 2: continue
         it = rng.choice(pool)
         fair = float(med.get(it, items.set_index("item_id").loc[it, "base_value"]))
-        # within ±5% of fair
         def jitter_price():
             return round(fair * float(rng.normal(1.0, 0.03)), 2)
 
         t0 = base_ts + pd.Timedelta(hours=int(rng.integers(8, 48)))
-        for k in range(int(6 + rng.integers(5))):  # ~6–10 trades
+        for k in range(int(6 + rng.integers(5))):
             a, b = rng.choice(c, size=2, replace=False)
             t = t0 + pd.Timedelta(minutes=int(rng.integers(0, window_hours*60)))
             lid = f"L{next_list_id:07d}"; next_list_id += 1

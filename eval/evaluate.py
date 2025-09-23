@@ -1,4 +1,3 @@
-# eval/evaluate.py
 import argparse
 import pandas as pd
 
@@ -16,23 +15,20 @@ def main():
     ap.add_argument("--flags", required=True)
     args = ap.parse_args()
 
-    labels = pd.read_csv(args.labels)  # entity_type, entity_id, fraud_type, is_fraud
-    flags  = pd.read_csv(args.flags)   # entity_type, entity_id, risk, code, detail
+    labels = pd.read_csv(args.labels)
+    flags  = pd.read_csv(args.flags)
     L = labels[labels["entity_type"]=="trade"][["entity_id","is_fraud","fraud_type"]].rename(columns={"entity_id":"trade_id"})
     F = flags[flags["entity_type"]=="trade"][["entity_id","code"]].rename(columns={"entity_id":"trade_id"})
 
     df = L.merge(F, on="trade_id", how="left", indicator=True)
 
-    # Overall
     tp, fp, fn, p, r = pr_counts(df)
     print(f"OVERALL -> TP:{tp} FP:{fp} FN:{fn} | Precision:{p:.3f} Recall:{r:.3f}")
 
-    # By fraud_type (labels)
     for ft, g in df.groupby("fraud_type"):
         tp, fp, fn, p, r = pr_counts(g)
         print(f"{ft:>14} -> TP:{tp} FP:{fp} FN:{fn} | Precision:{p:.3f} Recall:{r:.3f}")
 
-    # By rule code (flags)
     with_flags = df[df["_merge"]=="both"].copy()
     if not with_flags.empty and "code" in with_flags.columns:
         print("\nRule contribution (counts on detected fraud trades):")

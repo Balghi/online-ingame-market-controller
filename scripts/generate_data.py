@@ -15,21 +15,17 @@ def main():
 
     os.makedirs(args.outdir, exist_ok=True)
 
-    # world
     wcfg = WorldConfig(n_players=args.players, n_items=args.items, seed=args.seed)
     players, items, rng = gen_world(wcfg)
 
-    # market
     mcfg = MarketConfig(hours=args.hours, rng=rng)
     listings, trades = simulate_market(players, items, mcfg)
 
-    # save
     players.to_csv(os.path.join(args.outdir, "players.csv"), index=False)
     items.to_csv(os.path.join(args.outdir, "items.csv"), index=False)
     listings.to_csv(os.path.join(args.outdir, "listings.csv"), index=False)
     trades.to_csv(os.path.join(args.outdir, "trades.csv"), index=False)
 
-    # quick sanity summary
     print(f"Saved to {args.outdir}")
     print(f"Players: {len(players)} | Items: {len(items)}")
     print(f"Listings: {len(listings)} | Trades: {len(trades)}")
